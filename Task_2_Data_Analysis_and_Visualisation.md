@@ -53,6 +53,7 @@ Before building the dashboard, I performed rigorous data cleaning to ensure the 
 ---
 
 ## 4. Final Deliverables
-* **Power BI File:** `Online_Retail_Analysis.pbix`
-* **Executive Summary:** `Online_Retail_Analysis_insights.pdf`
+* **Power BI Analysis File:** [Online_Retail_Analysis.pbix](./Online_Retail_Analysis.pbix) (Contains separate tabs for each business question)
+* **Executive Summary:** [View Insights PDF](./Online_Retail_Analysis_insghts.pdf)
+* **Visual Breakdown:** [Detailed Analysis & Screenshots](./Task_2_Data_Analysis_and_Visualisation.md)
 * **Tools Used:** Power BI (Power Query & DAX), GitHub Markdown
