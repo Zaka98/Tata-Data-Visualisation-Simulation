@@ -12,11 +12,11 @@ This repository contains my submission for the Tata Group Data Visualisation sim
 
 ## 3. Project Structure
 
-### [Task 1: Business Questions & Strategy](./Business_Questions_Strategy.md)
+### [Task 1: Business Questions & Strategy](./Task_1_Business_Questions.md)
 This file contains 8 strategic questions (4 for the CEO and 4 for the CMO) designed to guide the data exploration process.
 * **Focus:** Revenue momentum, product risk, customer retention, and market basket analysis.
 
-### [Task 2: Data Analysis & Visualisation](./Data_Analysis_and_Visualisation.md)
+### [Task 2: Data Analysis & Visualisation](./Task_2_Data_Analysis_and_Visualisation.md)
 This file details the technical execution using **Power BI**. 
 * **Data Cleaning:** Process of removing returns (negative quantities) and invalid unit prices.
 * **Analytical Reports:** Breakdown of the 4 key visuals created to answer the executive requirements.
@@ -26,7 +26,7 @@ This file details the technical execution using **Power BI**.
 ## 4. Final Deliverables
 * **Power BI Analysis File:** [Online_Retail_Analysis.pbix](./Online_Retail_Analysis.pbix) (Contains separate tabs for each business question)
 * **Executive Summary:** [View Insights PDF](./Online_Retail_Analysis_insghts.pdf)
-* **Visual Breakdown:** [Detailed Analysis & Screenshots](./Data_Analysis_and_Visualisation.md)
+* **Visual Breakdown:** [Detailed Analysis & Screenshots](./Task_2_Data_Analysis_and_Visualisation.md)
 
 ---
 
